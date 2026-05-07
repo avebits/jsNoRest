@@ -1,0 +1,29 @@
+body {
+  background: rgb(15, 15, 15);
+  color: #65b193;
+  font-family: "Courier New", monospace;
+  padding: 20px;
+}
+
+#output {
+  white-space: pre-wrap;
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+#input {
+  width: 100%;
+  max-width: 350px;
+  padding: 10px;
+  font-size: 18px;
+  background: #111;
+  color: rgba(213, 111, 57, 0.568);
+  border: 1px solid rgb(0, 179, 255);
+  font-family: "Courier New", monospace;
+}
+
+a {
+  color: rgba(213, 111, 57, 0.568);
+  font-size: 18px;
+  font-weight: bold;
+}
