@@ -1,6 +1,11 @@
 
 /** 
-
+Project name    : No Rest
+Author          : avebits
+Version         : 0.3.0 - Playable beta
+Log             : ...
+To-do           : ... 
+Comment         : Inspired by the javascript game A dark room, zork, and older text-based ASCII games.
 
  **/
 
